@@ -27,7 +27,9 @@
                     </ul>
                 </div>
             </nav>
-            <router-view/>
+            <div class="container-fluid">
+                <router-view/>
+            </div>
         </div>
     </div>
   </div>
